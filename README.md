@@ -4,7 +4,7 @@ Im Dennis, I code in a few different languages, some more proficiently than othe
 ## Languages Known
 I know,
 
- 1. https://img.shields.io/badge/HTML-80--90%25-success
+ 1. [!Box][(https://img.shields.io/badge/HTML-80--90%25-success)]
  2. **JavaScript**
  3. **CSS**
  4. 
