@@ -10,5 +10,6 @@ Im Dennis, I code in a few different languages, some more proficiently than othe
 ![Test](https://img.shields.io/badge/C++-80--90%25-red)
 ## LaZy Rich Presence
 ![Test](https://img.shields.io/badge/Latest--Stable-v1.0.0-success)
+
 LaZy Rich Presence is a **Discord** tool that lets you change your status in **Discord** without anything complicated on your screen! It allows for custom images, custom applications, parties, and everything! Most of all, it's open source and you can find it pinned on my GitHub! 
 
