@@ -2,10 +2,9 @@
 Im Dennis, I code in a few different languages, some more proficiently than others of course :laughing: I spend most of my time either developing software either in **C** or sometimes I like to make backend **REST APIs** using **Gulp.js** and sometimes even **Express.js**
 
 ## Languages Known
-I know,
-
- 1. [!Box][(https://img.shields.io/badge/HTML-80--90%25-success)]
- 2. **JavaScript**
- 3. **CSS**
- 4. 
-
+![Test](https://img.shields.io/badge/HTML-80--90%25-success)
+![Test](https://img.shields.io/badge/CSS-70--80%25-blue)
+![Test](https://img.shields.io/badge/JavaScript-90--95%25-yellow)
+![Test](https://img.shields.io/badge/Java-75--85%25-orange)
+![Test](https://img.shields.io/badge/CSharp-80--90%25-informational)
+![Test](https://img.shields.io/badge/C++-80--90%25-red)
