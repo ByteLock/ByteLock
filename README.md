@@ -2,12 +2,12 @@
 Im Dennis, I code in a few different languages, some more proficiently than others of course :laughing: I spend most of my time either developing software either in **C** or sometimes I like to make backend **REST APIs** using **Gulp.js** and sometimes even **Express.js**
 
 ## Languages Known
-![Test](https://img.shields.io/badge/HTML-80--90%25-success)
-![Test](https://img.shields.io/badge/CSS-70--80%25-blue)
+![Test](https://img.shields.io/badge/HTML-60--70%25-success)
+![Test](https://img.shields.io/badge/CSS-30--50%25-blue)
 ![Test](https://img.shields.io/badge/JavaScript-90--95%25-yellow)
 ![Test](https://img.shields.io/badge/Java-75--85%25-orange)
-![Test](https://img.shields.io/badge/CSharp-80--90%25-informational)
-![Test](https://img.shields.io/badge/C++-80--90%25-red)
+![Test](https://img.shields.io/badge/CSharp-30--40%25-informational)
+![Test](https://img.shields.io/badge/C++-80--95%25-red)
 ## LaZy Rich Presence
 ![Test](https://img.shields.io/badge/Latest--Stable-v1.0.0-success)
 
