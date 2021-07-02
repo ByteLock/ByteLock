@@ -1,5 +1,5 @@
 # **Hey! :wave: Welcome to my corner! Stay Awhile!**
-Im Dennis, I code in a few different languages, some more proficiently than others of course :laughing: I spend most of my time either developing software either in **C** or sometimes I like to make backend **REST APIs** using **Gulp.js** and sometimes even **Express.js**
+Im Dennis, I code in a few different languages, some more proficiently than others of course :laughing: I spend most of my time either developing software either in **C** or sometimes I like to make backend **REST APIs** using **Node.js** 
 
 ## Languages Known
 ![Test](https://img.shields.io/badge/HTML-60--70%25-success)
