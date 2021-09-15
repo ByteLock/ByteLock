@@ -1,4 +1,4 @@
-# **Hey! :wave: Welcome to my corner! Stay Awhile!**
+# **Hey! :wave:**
 Im Dennis, I code in a few different languages, the main ones are C++, and Java.
 
 ## Languages Known
