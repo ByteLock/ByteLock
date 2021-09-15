@@ -1,4 +1,4 @@
-**Welcome to my profile!**
+## **Welcome to my profile!**
 Hey! Im Dennis, as of right now Im programming in a few different languages which are listed below with how well I am at them!
 
 >*Note, I'm not doing anything professionally as of right now, just getting a feel for which languages I'd like to work with in the future!*
