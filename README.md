@@ -7,6 +7,7 @@
  
  <details>
     <summary>Used <b>Databases<b></summary>
-    
+     <p>MongoDB</p>
+     <p>MySQL</p>
 </details>
 
