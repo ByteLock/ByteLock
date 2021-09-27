@@ -1,4 +1,9 @@
-<h1 align="center">Veni Vidi Vici</h1>
-<h2 align="center">Welcome to my profile!</h2>
-  
-![ByteLock's Stats](https://github-readme-stats.vercel.app/api?username=bytelock&show_icons=true&theme=material-palenight)
+<h1 align="center"></h1>
+ 
+ 
+ <details>
+    <summary><b>GitHub</b> Activity</summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ByteLock&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteLock&theme=tokyonight&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteLock&theme=tokyonight">
+</details>
+
