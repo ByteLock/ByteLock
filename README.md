@@ -7,14 +7,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ByteLock&theme=react">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteLock&theme=react">
  
-## 💨 Current code projects
+## ⚡ Current projects
 - Working on First Tech Challenge Season
 - Lazy Rich Presence (hotfixes and updates)
 - Network management portal for the network management project
 - Discord music bot
 - Email management service
 - User Authentication Service
-
-
-## ⚡ Current projects
 - Network management system, access points, routers, smart switches, etc
