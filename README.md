@@ -6,7 +6,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ByteLock&theme=react">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteLock&theme=react">
  
- ## Yeah
-```js
+## 💨 Current code projects
+- Working on First Tech Challenge Season
+- Lazy Rich Presence (hotfixes and updates)
+- Network management portal for the network management project
 
-```
+
+## ⚡ Current projects
+- Working on getting MacOS onto laptop 
+- Network management system, access points, routers, smart switches, etc
