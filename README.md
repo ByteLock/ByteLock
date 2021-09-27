@@ -12,6 +12,8 @@
 - Lazy Rich Presence (hotfixes and updates)
 - Network management portal for the network management project
 - Discord music bot
+- Email management service
+- User Authentication Service
 
 
 ## ⚡ Current projects
