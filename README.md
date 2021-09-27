@@ -1,1 +1,1 @@
-<p> <center> test </center></p>
+<p style="text-align: center;">Centered text</p>
