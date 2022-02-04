@@ -2,11 +2,8 @@
   
   Hi there 👋, Im <a href="https://github.com/ByteLock">Dennis Yilmaz</a>
   
-</div>
-
-<div style="text-align: justify;">
+  <div style="text-align: right;">
+    ![Visitors](https://komarev.com/ghpvc/?username=bytelock&color=blue)
+  </div>
   
-  ![Visitors](https://komarev.com/ghpvc/?username=bytelock&color=blue)
-  
-</div>
-                    
+</div>    
