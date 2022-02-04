@@ -1,1 +1,3 @@
-Hi there 👋, Im <a href="https://github.com/ByteLock">Dennis Yilmaz</a>                             ![Visitors](https://komarev.com/ghpvc/?username=bytelock&color=blue)
+Hi there 👋, Im <a href="https://github.com/ByteLock">Dennis Yilmaz</a>        
+<div style="text-align: right"> ![Visitors](https://komarev.com/ghpvc/?username=bytelock&color=blue)</div>
+                    
