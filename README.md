@@ -4,7 +4,7 @@
   
 </div>
 
-<div style="float: right;">
+<div style="float: justify;">
   
   ![Visitors](https://komarev.com/ghpvc/?username=bytelock&color=blue)
   
