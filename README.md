@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Yilmaz</h1>
 <h3 align="center">I am a fullstack developer from The United States!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bytelock&label=Profile%20views&color=0e75b6&style=flat" alt="bytelock" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **First Tech Challenge 2021-2022**
