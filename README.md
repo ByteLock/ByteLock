@@ -4,7 +4,7 @@
   
 </div>
 
-<div style="text-align: right">
+<div style="text-align: right float: right;">
   
   ![Visitors](https://komarev.com/ghpvc/?username=bytelock&color=blue)
   
