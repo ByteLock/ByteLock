@@ -3,8 +3,6 @@
 </div>
 
 <div style="text-align: right">
-
   ![Visitors](https://komarev.com/ghpvc/?username=bytelock&color=blue)
-
 </div>
                     
