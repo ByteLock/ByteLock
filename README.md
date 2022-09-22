@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
 <h3 align="center">I am a fullstack developer from The United States!</h3>
 
-- 🔭 I’m currently working on **First Tech Challenge 2021-2022**
+- 🔭 I’m currently working on **First Tech Challenge 2022-2023**
 
 - 📫 How to reach me **dennis@disruption.network**
 
